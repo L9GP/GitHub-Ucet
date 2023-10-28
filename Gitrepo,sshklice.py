@@ -1,0 +1,1 @@
+print("Úkol splněn, nový SSH klíč vytvořeb")
